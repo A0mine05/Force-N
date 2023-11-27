@@ -40,7 +40,9 @@ En tant que Data Analyste, le manager compte sur vous pour lui faire une analyse
 Dossier ZIP : "Tutorial - Building an App"
 
 2.  Examen blanc Traitement des données Niveau 2
-S'ouvre : mercredi 6 décembre 2023, 08:00 Se termine : vendredi 8 décembre 2023, 22:00
+
+S'ouvre : mercredi 6 décembre 2023, 08:00 - Se termine : vendredi 8 décembre 2023, 22:00
 
 3. Examen final Traitement des données Niveau 2
-S'ouvre : samedi 9 décembre 2023, 10:00 Se termine : samedi 9 décembre 2023, 12:00
+
+S'ouvre : samedi 9 décembre 2023, 10:00 - Se termine : samedi 9 décembre 2023, 12:00
